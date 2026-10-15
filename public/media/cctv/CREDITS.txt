@@ -1,0 +1,10 @@
+Real CCTV demo videos (Pexels licence: free to use and modify, no attribution required - credited anyway)
+1. puducherry_whitetown.mp4  - "Beautiful buildings in french town of Pondicherry in Tamil Nadu, India" by Social Sudo
+   https://www.pexels.com/video/beautiful-buildings-in-french-town-of-pondicherry-in-tamil-nadu-india-18462271/
+2. roadside_parking.mp4      - "A street with motorcycles and people walking on it" by Manoo Media (tagged Pondicherry)
+   https://www.pexels.com/video/a-street-with-motorcycles-and-people-walking-on-it-17080949/
+   (played forward then backward so the clip loops smoothly)
+Videos were resized to 960 px wide for the demo.
+3. puducherry_roadside_cctv.mp4  - real Puducherry CCTV clip from the Jaya Plus news report "சாலையோரம் நிறுத்தப்பட்டிருந்த இருச்சக்கர வாகனம் திருட்டு" (YouTube, https://www.youtube.com/watch?v=8NpevmY7kaA)
+4. puducherry_lane_night_cctv.mp4 - real Puducherry CCTV clip from the Sun News report "புதுவையில் அசால்டாக பைக்கை திருடிச் செல்லும் தொப்பி திருடர்கள்" (YouTube, https://www.youtube.com/watch?v=qyXKxVBYZ4g)
+   Clips 3-4 are copyright of the news channels. Only the CCTV part is used, cropped, for a non-commercial college hackathon demo. Do not upload or redistribute.

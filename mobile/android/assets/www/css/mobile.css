@@ -1,0 +1,6 @@
+/* ParkSmart Mobile extras */
+#phoneBtn { display: none !important; }
+.offline-badge { display: inline-flex; align-items: center; gap: 6px; padding: 3px 10px; border-radius: 999px; background: var(--green-bg); color: var(--green); font-size: 13px; font-weight: bold; }
+.offline-badge .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--green); }
+.sync-num { font-size: 34px; font-weight: bold; line-height: 1; }
+body { padding-bottom: env(safe-area-inset-bottom); }

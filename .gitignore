@@ -1,0 +1,11 @@
+data/*.json
+data/uploads/
+*.jks
+*.keystore
+*.p12
+*.apk
+*.idsig
+mobile/android/build/
+public/media/cctv/*.mp4
+public/media/cctv/*.webm
+*.bak*

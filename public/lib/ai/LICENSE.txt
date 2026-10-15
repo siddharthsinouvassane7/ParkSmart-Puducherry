@@ -1,0 +1,5 @@
+Offline AI vehicle detector used by the CCTV page (real video mode)
+- TensorFlow.js 4.22.0 (tf.min.js): Apache License 2.0 - https://github.com/tensorflow/tfjs
+- COCO-SSD 2.2.3 (coco-ssd.min.js): Apache License 2.0 - https://github.com/tensorflow/tfjs-models
+- model/ : COCO-SSD (SSD MobileNet v2) weights in TensorFlow.js format, Apache License 2.0
+  (copied from the npm package node-red-contrib-tfjs-coco-ssd). Runs fully offline on this computer.
